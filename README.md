@@ -1,6 +1,6 @@
 
 
-### 🚀 Nombre: [Tu Nombre]  
+### 🚀 Nombre: Juan Sebastian Higuita Correa  
 📧 Email: juansebastianhiguita407@gmail.com 
 🔗 GitHub: https://github.com/JuanHiguita14
 
@@ -35,7 +35,7 @@
 ## 📌 Idiomas
 
 - 🇪🇸 Español: Nativo  
-- 🇺🇸 Inglés: Intermedio/Avanzado  
+- 🇺🇸 Inglés: Intermedio  
 
 ---
 
@@ -43,7 +43,7 @@
 
 - 🎨 Canva – Para diseño gráfico  
 - 🧩 Figma – Para prototipado  
-- 📄 Google Docs / Word – Para estructuración de CV
+- 📄 Google Docs / Word – Para estructuración 
 
 ---
 
