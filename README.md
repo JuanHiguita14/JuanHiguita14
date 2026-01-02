@@ -1,12 +1,12 @@
 
 
-### 🚀 Nombre: Juan Sebastian Higuita Correa  
-📧 Email: juansebastianhiguita407@gmail.com 
-🔗 GitHub: https://github.com/JuanHiguita14
+### Nombre: Juan Sebastian Higuita Correa  
+ Email: juansebastianhiguita407@gmail.com 
+ GitHub: https://github.com/JuanHiguita14
 
 ---
 
-## 💻 Habilidades Técnicas
+##  Habilidades Técnicas
 
 | Categoría | Tecnologías |
 | :--- | :--- |
@@ -17,33 +17,27 @@
 
 ---
 
-## 🎓 Educación
+##  Educación
 
-📚 Técnico en Analisis y desarrollo de software  
-🏛️ CTGI
-📅 Año de graduación: 2023
-
----
-
-
+ Técnico en Analisis y desarrollo de software  
+ CTGI
+ Año de graduación: 2023
 
 ---
 
 
----
-
-## 📌 Idiomas
+##  Idiomas
 
 - 🇪🇸 Español: Nativo  
 - 🇺🇸 Inglés: Intermedio  
 
 ---
 
-## 🎨 Herramientas Visuales
+##  Herramientas Visuales
 
-- 🎨 Canva – Para diseño gráfico  
-- 🧩 Figma – Para prototipado  
-- 📄 Google Docs / Word – Para estructuración 
+-  Canva – Para diseño gráfico  
+-  Figma – Para prototipado  
+-  Google Docs / Word – Para estructuración 
 
 ---
 
